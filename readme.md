@@ -1,3 +1,3 @@
 # Table
 
-https://cards-two-opal.vercel.app
+https://pezzzo.github.io/table
